@@ -15,9 +15,9 @@
 
 ## Grading Outline
 
-- [ ] async-word-count
-- [ ] sql-publisher-author-genre
-- [ ] node-express-sequelize
+- [ complete] async-word-count
+- [ complete] sql-publisher-author-genre
+- [ mostly complete] node-express-sequelize
 
 ## Using and Referencing Outside Resources
 
